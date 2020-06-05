@@ -1,4 +1,4 @@
-Projeto Final de Desenvolvimento de Software para Web.
+Projeto Final da disciplina de Desenvolvimento de Software para Web - 1ª Periodo de Sistema de Informação - UVV
 
 Acesse em: https://danschirmer.github.io/portaldoaluno/.
 
