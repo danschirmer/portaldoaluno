@@ -1,5 +1,9 @@
-# portaldoaluno
+Projeto da disciplina de Construção e Desenvolvimento WEB.
 
-Projeto de um portal do aluno apresentado na disciplina de Construção e Desenvolvimento WEB.
+Acesse em:
+
+# https://danschirmer.github.io/portaldoaluno/.
+
+
 
 Obs: O Portal encontra-se sem os vídeos devido ao tamanho permitido do GitHub
